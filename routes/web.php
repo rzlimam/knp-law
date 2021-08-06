@@ -1,6 +1,10 @@
 <?php
 
+use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\MailController;
+
+
 
 /*
 |--------------------------------------------------------------------------
@@ -13,8 +17,30 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+
 Route::get('/', function () {
     return view('home', [
         "title" => "Home"
     ]);
 });
+
+Route::get('/contact-us', function () {
+    return view('contact', [
+        "title" => "Contact Us"
+    ]);
+});
+
+Route::get('/services', function () {
+    return view('services', [
+        "title" => "Services"
+    ]);
+});
+
+Route::get('/about', function () {
+    return view('about', [
+        "title" => "About Us"
+    ]);
+});
+
+Route::post('contact-form', [MailController::class, 'mail']);
+

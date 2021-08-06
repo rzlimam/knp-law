@@ -51,12 +51,12 @@
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="/">Home</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Services</a></li>
-                        <li><a href="#">Our Team</a></li>
-                        <li><a href="#">Blog</a></li>
-                        <li><a href="#">Contact</a></li>
+                        <li class="{{ ($title === 'Home') ? 'active' : '' }}"><a href="/">Home</a></li>
+                        <li class="{{ ($title === 'About Us') ? 'active' : '' }}"><a href="/about">About Us</a></li>
+                        <li class="{{ ($title === 'Services') ? 'active' : '' }}"><a href="/services">Services</a></li>
+                        <li class="{{ ($title === '') ? 'active' : '' }}"><a href="#">Our Team</a></li>
+                        <li class="{{ ($title === '') ? 'active' : '' }}"><a href="#">Blog</a></li>
+                        <li class="{{ ($title === 'Contact Us') ? 'active' : '' }}"><a href="/contact-us">Contact</a></li>
                     </ul>						
                 </div>
             </div>
