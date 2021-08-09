@@ -24,12 +24,12 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => 'v8.5.23',
-    'version' => '8.5.23.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '42a8c7c93dc48d2ef9aab0989db29f411841848f',
     'name' => 'laravel/laravel',
   ),
   'versions' => 
@@ -463,12 +463,12 @@ private static $installed = array (
     ),
     'laravel/laravel' => 
     array (
-      'pretty_version' => 'v8.5.23',
-      'version' => '8.5.23.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '42a8c7c93dc48d2ef9aab0989db29f411841848f',
     ),
     'laravel/sail' => 
     array (
@@ -826,8 +826,8 @@ private static $installed = array (
     array (
       'provided' => 
       array (
-        0 => '1.0|2.0',
-        1 => '1.0.0',
+        0 => '1.0.0',
+        1 => '1.0|2.0',
       ),
     ),
     'psr/simple-cache' => 
@@ -868,18 +868,18 @@ private static $installed = array (
     ),
     'ramsey/uuid' => 
     array (
-      'pretty_version' => '4.1.1',
-      'version' => '4.1.1.0',
+      'pretty_version' => '4.2.0',
+      'version' => '4.2.0.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'cd4032040a750077205918c86049aa0f43d22947',
+      'reference' => '7231612a5221f5524d3575bebdce20eeef8547a1',
     ),
     'rhumsaa/uuid' => 
     array (
       'replaced' => 
       array (
-        0 => '4.1.1',
+        0 => '4.2.0',
       ),
     ),
     'sebastian/cli-parser' => 
