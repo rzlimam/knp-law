@@ -22,7 +22,7 @@ class MailController extends Controller
         $mail->contact_subject = $request->contact_subject;
         $mail->contact_message = $request->contact_message;
 
-        Mail::to('rizalimamf@gmail.com')->send(new \App\Mail\MyMail($mail));
+        Mail::to('rifberdikari@gmail.com')->send(new \App\Mail\MyMail($mail));
         return redirect('contact-us')->with('status', 'Email has been send. Thank you for contacting us!');
     }
 }

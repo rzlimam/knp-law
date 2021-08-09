@@ -24,9 +24,9 @@ Route::get('/', function () {
     ]);
 });
 
-Route::get('/contact-us', function () {
-    return view('contact', [
-        "title" => "Contact Us"
+Route::get('/about', function () {
+    return view('about', [
+        "title" => "About Us"
     ]);
 });
 
@@ -36,9 +36,15 @@ Route::get('/services', function () {
     ]);
 });
 
-Route::get('/about', function () {
-    return view('about', [
-        "title" => "About Us"
+Route::get('/our-team', function () {
+    return view('team', [
+        "title" => "Our Team"
+    ]);
+});
+
+Route::get('/contact-us', function () {
+    return view('contact', [
+        "title" => "Contact Us"
     ]);
 });
 
