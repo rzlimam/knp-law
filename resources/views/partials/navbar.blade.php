@@ -15,8 +15,8 @@
                         </div>							
                     </div>
                     <div class="col-md-4 col-sm-4 logo-block mobile-hide">
-                        <a href="index.html" class="image-logo" title="Logo"><img src="images/logo.png" alt="Logo" /></a>
-                        <h4>RIF Law</h4>
+                        <a href="index.html" class="image-logo" title="Logo"><img src="images/knp-logo.jpeg" alt="Logo" style="width:150px;"/></a>
+                        <h4>Kisworo and Partners</h4>
                         <span>Law Frim Group</span>
                     </div>
                     <div class="col-md-4 col-sm-6 text-right col-xs-6">							
@@ -49,7 +49,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand text-logo desktop-hide" href="#">Master Law</a>
+                    <a class="navbar-brand text-logo desktop-hide" href="#">Kisworo and Partners</a>
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
