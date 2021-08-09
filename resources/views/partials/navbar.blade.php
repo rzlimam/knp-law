@@ -49,7 +49,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand text-logo desktop-hide" href="#">Kisworo and Partners</a>
+                    <a class="navbar-brand text-logo desktop-hide" href="/"><h4>Kisworo and Partners</h4></a>
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
