@@ -899,7 +899,7 @@
 .guidance-tabpanel .nav.nav-tabs {
 	display: inline-block;
 	width: 100%;
-	margin-bottom: 75px;
+	margin-bottom: 10px;
 	text-align: center;
 	border-bottom: none;
 }
@@ -925,16 +925,18 @@
 	line-height: 101px;
 	border: 1px solid #bd9c67;
 	width: 14.28571428571429%;
+	display: flex;
+  	justify-content: center;
 }
 .guidance-tabpanel .nav-tabs li > a {
 	color: #777;
 	font-family: 'Montserrat', sans-serif;
+	font-size: 12px;
 	text-transform: uppercase;
 	border: none;
 	border-radius: 0;
-	margin-right: 0;
+	margin: auto;
 	text-align: center;
-	padding: 33px 25px 47px;
 	letter-spacing: 0.4px;
 }
 
@@ -1071,6 +1073,7 @@
 	margin-right: 8px;
 	float: left;
 }
+
 .blog-pagination .pagination a {
 	font-size: 15px;
 	padding: 9px 18px;

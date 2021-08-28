@@ -50,5 +50,73 @@
     <div class="section-padding"></div>
 </div>
 <!-- Service Section /- -->
+
+<!-- Guidance Section -->
+<div id="guidance-section" class="container-fluid no-padding guidance-section">
+    <div class="section-padding"></div>
+    <!-- Container -->
+    <div class="container">
+        <div class="section-header">
+            <h3>Jasa Kami</h3>
+        </div>			
+        <div class="guidance-tabpanel">
+            <!-- Nav tabs -->
+            <ul class="nav nav-tabs">
+                <li><a>Hukum Pidana</a></li>
+                <li><a>Hukum Perdata</a></li>
+                <li><a>Hukum Investasi dan Penanaman Modal</a></li>
+                <li><a>Hukum Perusahaan</a></li>
+                <li><a>Hukum Acara Perdata</a></li>
+                <li><a>Hukum Administrasi Negara</a></li>
+                <li><a>Hukum Konstitusi</a></li>
+            </ul>
+            <ul class="nav nav-tabs">
+                <li><a>Hukum Pers</a></li>
+                <li><a>Hukum Media dan Informasi</a></li>
+                <li><a>Hukum Hak Cipta, Paten, dan Rahasia Dagang</a></li>
+                <li><a>Hukum Teknologi dan Telekomunikasi</a></li>
+                <li><a>Hukum Pertahanan</a></li>
+                <li><a>Hukum Pertambangan dan Sumber Daya Alam</a></li>
+                <li><a>Hukum Minyak dan Gas</a></li>
+            </ul>
+            <ul class="nav nav-tabs">
+                <li><a>Hukum Lingkungan</a></li>
+                <li><a style="font-size: 12px">Hukum Kepailitan dan Penundaan Kewajiban Pembayaran Hutang</a></li>
+                <li><a>Hukum Ketenagakerjaan</a></li>
+                <li><a>Hukum Kepegawaian dan Aparatur Sipil Negara</a></li>
+                <li><a>Hukum Keluarga, Perceraian, dan Waris</a></li>
+                <li><a>Hukum Imigrasi dan Bea Cukai</a></li>
+                <li><a>Hukum Perbankan dan Keuangan</a></li>
+            </ul>
+            <ul class="nav nav-tabs">
+                <li><a>Hukum Asuransi</a></li>
+                <li><a>Hukum Pengangkutan</a></li>
+                <li><a>Hukum Konstruksi</a></li>
+                <li><a>Hukum Pasar Modal</a></li>
+                <li><a>Hukum Pajak</a></li>
+                <li><a>Likuidasi</a></li>
+                <li><a>Arbitrasi</a></li>
+            </ul>
+            <ul class="nav nav-tabs">
+                <li><a>Penyelesaian Sengketa Alternatif </a></li>
+                <li><a>Hubungan Masyarakat dan antar Lembaga</a></li>
+                <li><a>Transaksi Properti</a></li>
+                <li><a>Pengurusan Izin Lokasi</a></li>
+                <li><a>Merger, dan Akuisisi</a></li>
+                <li><a>Perjanjian Lisensi dan Waralaba</a></li>
+                <li><a>Perjanjian Teknologi</a></li>
+            </ul>
+            <ul class="nav nav-tabs">
+                <li><a>Pengurusan Hak Kekayaan Intelektual</a></li>
+                <li><a>Uji Tuntas / <i>Due Dilligence</i></a></li>
+                <li><a>Pengurusan sertifikasi pangan (MUI, BPOM, dll)</a></li>
+                <li><a>Pengurusan Izin tetap terbatas dan Permanen</a></li>
+                <li><a>Pengurusan PPH, PPN, dll</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="section-padding"></div>
+</div>
+<!-- Guidance Section /- -->
     
 @endsection

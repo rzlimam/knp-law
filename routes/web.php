@@ -3,6 +3,10 @@
 use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\MailController;
+use App\Http\Controllers\PostController;
+use App\Models\Category;
+use App\Models\Post;
+use App\Models\User;
 
 
 
@@ -50,3 +54,13 @@ Route::get('/contact-us', function () {
 
 Route::post('contact-form', [MailController::class, 'mail']);
 
+Route::get('/blog', [PostController::class, 'index']);
+Route::get('/blog-post/{post:slug}', [PostController::class, 'show']);
+
+Route::get('/categories', function() {
+    return view('categories', [
+        'title' => 'Categories',
+        'active' => 'categories',
+        'categories' => Category::all()
+    ]); 
+});

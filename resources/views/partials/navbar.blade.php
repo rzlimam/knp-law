@@ -5,21 +5,21 @@
             <!-- Container -->
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4 col-sm-6 text-left col-xs-6">
+                    <div class="col-md-3 col-sm-6 text-left col-xs-6">
                         <div class="location">
                             <h3>
                                 <img src="images/icon/location-ic.png" alt="Location"/>
                                 Our Location
                             </h3>
-                            <p>THB, Bekasi Utara</p>
+                            <p>Jl. Inspeksi Kalimalang No. 36B, Setiadarma, Tambun Selatan, Kabupaten Bekasi, Jawa Barat – 17510</p>
                         </div>							
                     </div>
-                    <div class="col-md-4 col-sm-4 logo-block mobile-hide">
+                    <div class="col-md-6 col-sm-4 logo-block mobile-hide">
                         <a href="index.html" class="image-logo" title="Logo"><img src="images/knp-logo.jpeg" alt="Logo" style="width:150px;"/></a>
                         <h4>Kisworo and Partners</h4>
                         <span>Law Frim Group</span>
                     </div>
-                    <div class="col-md-4 col-sm-6 text-right col-xs-6">							
+                    <div class="col-md-3 col-sm-6 text-right col-xs-6">							
                         <div class="phone">
                             <h3>
                                 <img src="images/icon/consultation-ic.png" alt="consultation"/>
@@ -57,7 +57,7 @@
                         <li class="{{ ($title === 'About Us') ? 'active' : '' }}"><a href="/about">About Us</a></li>
                         <li class="{{ ($title === 'Services') ? 'active' : '' }}"><a href="/services">Services</a></li>
                         <li class="{{ ($title === 'Our Team') ? 'active' : '' }}"><a href="/our-team">Our Team</a></li>
-                        <li class="{{ ($title === 'Blog') ? 'active' : '' }}"><a href="#">Blog</a></li>
+                        <li class="{{ ($title === 'Blog') ? 'active' : '' }}"><a href="/blog">Blog</a></li>
                         <li class="{{ ($title === 'Contact Us') ? 'active' : '' }}"><a href="/contact-us">Contact</a></li>
                     </ul>						
                 </div>

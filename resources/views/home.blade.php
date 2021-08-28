@@ -176,7 +176,7 @@
             </div>
             <div class="col-md-4 col-sm-4 col-xs-6 service-block">
                 <img src="images/icon/service-ic-3.png" alt="service-icon"/>
-                <h3>Konsultan Hukum Perpajakan</h3>
+                <h3>Konsultan Hukum Pajak</h3>
                 <p>Certified Tax Legal Consultant / CTLC, dengan sertfikasi Nomor : 076/SK.PKHPKI/X/2020.</p>
             </div>
         </div>
