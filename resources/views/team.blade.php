@@ -80,44 +80,12 @@
 						<div class="col-md-6 col-sm-6 col-xs-6 attorney-team-details">
 							<h3>AZMI MAHATIR BASWEDAN, SH.</h3>
 							<span>Pengacara</span>
-							<p>The European languages are members of the same family their separate.</p>
-							<ul>
-								<li><a href="#" title="Facebook"><i class="fa fa-facebook"></i></a></li>	
-								<li><a href="#" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#" title="Google+"><i class="fa fa-google-plus"></i></a></li>
-								<li><a href="#" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-							</ul>
-							<a href="attorney-details.html" title="Contact Now">Contact Now</a>
 						</div>
 					</div>
 					<div class="col-md-6 col-sm-6 col-xs-12 attorney-right skill-section">
-						<div class="skill-progress-box">
-							<h3 class="block-title">Civil Law<span data-skill_percent="78" id="skill_type1_count-5">78</span></h3>
-							<div class="progress">
-								<div class="progress-bar progress-bar-danger" role="progressbar" id="skill_bar1_count-5">
-								</div>
-							</div>
-						</div>
-						<div class="skill-progress-box">
-							<h3 class="block-title">Criminal law<span data-skill_percent="95" id="skill_type1_count-6">95</span></h3>
-							<div class="progress">
-								<div class="progress-bar progress-bar-danger" role="progressbar" id="skill_bar1_count-6">
-								</div>
-							</div>
-						</div>
-						<div class="skill-progress-box">
-							<h3 class="block-title">Industrial Law<span data-skill_percent="70" id="skill_type1_count-7">70</span></h3>
-							<div class="progress">
-								<div class="progress-bar progress-bar-danger" role="progressbar" id="skill_bar1_count-7">
-								</div>
-							</div>
-						</div>
-						<div class="skill-progress-box">
-							<h3 class="block-title">Goverment Issues<span data-skill_percent="80" id="skill_type1_count-8">80</span></h3>
-							<div class="progress">
-								<div class="progress-bar progress-bar-danger" role="progressbar" id="skill_bar1_count-8">
-								</div>
-							</div>
+						<div class="col-md-12 aboutone-left">
+							<p>Azmi Mahathir Baswedan, S.H merupakan seorang Advokat yang mendapatkan gelar Sarjana dari Fakultas Hukum Universitas Negeri Jenderal Soedirman Purwokerto Angkatan Tahun 2013, beliau memulai karir di dunia hukum dengan magang sampai berakhir sebagai Senior Associate di sebuah Law Firm ternama di Jakarta sejak tahun 2018 sampai tahun 2021, selama menjalani pekerjaan di dunia hukum beliau telah dipercayakan sebagai penanggung jawab serta sukses menyelesaikan berbagai permasalahan hukum termasuk yang cukup besar dan mendapatkan atensi publik. Beliau saat ini memutuskan untuk menjadi Senior Partner di Kisworo & Partners.</p>
+							<p>Beliau memiliki spesialisasi dan kompetensi di bidang perdata, pidana, perbankan, keuangan, pertanahan baik yang sudah masuk dalam ranah Pengadilan maupun yang masih di luar pengadilan. Dalam menjalankan setiap pekerjaan beliau selalu mengusahakan dapat menemukan jalan keluar yang paling efektif dan efisien untuk dapat menyelesaikan permasalahan hukum serta menjaga kepentingan Klien.</p>
 						</div>
 					</div>
 				</div>
@@ -127,47 +95,17 @@
 							<img src="images/attorney3.jpg" alt="team"/>
 						</div>
 						<div class="col-md-6 col-sm-6 col-xs-6 attorney-team-details">
-							<h3>Alwin Stark LLB.,</h3>
-							<span>Legal Advisor</span>
-							<p>The European languages are members of the same family their separate.</p>
-							<ul>
-								<li><a href="#" title="Facebook"><i class="fa fa-facebook"></i></a></li>	
-								<li><a href="#" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#" title="Google+"><i class="fa fa-google-plus"></i></a></li>
-								<li><a href="#" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-							</ul>
-							<a href="attorney-details.html" title="Contact Now">Contact Now</a>
+							<h3>ADHI BANGKIT SAPUTRA, SH.</h3>
+							<span>Pengacara</span>
 						</div>
 					</div>
 					<div class="col-md-6 col-sm-6 col-xs-12 attorney-right skill-section">
-						<div class="skill-progress-box">
-							<h3 class="block-title">Civil Law<span data-skill_percent="70" id="skill_type1_count-9">70</span></h3>
-							<div class="progress">
-								<div class="progress-bar progress-bar-danger" role="progressbar" id="skill_bar1_count-9">
-								</div>
-							</div>
+						<div class="col-md-12 aboutone-left">
+							<p>Adhi Bangkit Saputra, S.H. merupakan Advokat muda yang memiliki kemampuan analisa hukum yang tajam serta menjunjung tinggi profesionalitas dalam menangani permasalahan hukum Klien. Beliau merupakan lulusan Sarjana Hukum Universitas Negeri Jenderal Soedirman Purwokerto Angkatan Tahun 2011. </p>
+							<p>Pengalaman kerja beliau sebagai advokat dimulai sebagai Pendiri Lembaga Bantuan Hukum (LBH) di Kabupaten Banyumas dan menjabat sebagai Kepala Divisi Non-Litigasi pada tahun 2017 – 2019. Saat itu beliau menangani beberapa kasus atau perkara public interest yang mencakup advokasi isu lingkungan hidup pembangunan geo-thermal PLTPB Gunung Slamet, penyelematan lingkungan karst Gombong dari pabrik semen, kasus human trafficking buruh migran/TKI Banjarnegara, dan Pos Bantuan Hukum Pengadilan Agama Purwokerto. Kemudian pada tahun 2019 beliau aktif bekerja di salah satu Law Firm terbaik di Jakarta sebagai Senior Associate. Berdasarkan pengalamannya tersebut, Saat ini beliau telah matang sebagai advokat (partner) di Law Firm Kisworo & Partners.</p>
+							<p>Spesialisasi atau kompetensi beliau mencakup bidang ketenagakerjaan / perselisihan hubungan industrial, sengketa lingkungan hidup, sengketa peradilan tata usaha negara, serta perijinan dan legalitas pertanahan. Prinsip dan motto beliau adalah “analisa dan riset hukum merupakan fondasi utama untuk menemukan solusi terbaik atas permasalahan hukum Klien”.</p>
 						</div>
-						<div class="skill-progress-box">
-							<h3 class="block-title">Criminal law<span data-skill_percent="80" id="skill_type1_count-10">80</span></h3>
-							<div class="progress">
-								<div class="progress-bar progress-bar-danger" role="progressbar" id="skill_bar1_count-10">
-								</div>
-							</div>
-						</div>
-						<div class="skill-progress-box">
-							<h3 class="block-title">Industrial Law<span data-skill_percent="65" id="skill_type1_count-11">65</span></h3>
-							<div class="progress">
-								<div class="progress-bar progress-bar-danger" role="progressbar" id="skill_bar1_count-11">
-								</div>
-							</div>
-						</div>
-						<div class="skill-progress-box">
-							<h3 class="block-title">Goverment Issues<span data-skill_percent="85" id="skill_type1_count-12">85</span></h3>
-							<div class="progress">
-								<div class="progress-bar progress-bar-danger" role="progressbar" id="skill_bar1_count-12">
-								</div>
-							</div>
-						</div>
+					</div>
 					</div>
 				</div>
 				<div class="attorney-block">
@@ -176,147 +114,17 @@
 							<img src="images/attorney4.jpg" alt="team"/>
 						</div>
 						<div class="col-md-6 col-sm-6 col-xs-6 attorney-team-details">
-							<h3>Larson Flintop LLB.,</h3>
-							<span>Health Division Attorney</span>
-							<p>The European languages are members of the same family their separate.</p>
-							<ul>
-								<li><a href="#" title="Facebook"><i class="fa fa-facebook"></i></a></li>	
-								<li><a href="#" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#" title="Google+"><i class="fa fa-google-plus"></i></a></li>
-								<li><a href="#" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-							</ul>
-							<a href="attorney-details.html" title="Contact Now">Contact Now</a>
+							<h3>HUTOMO NUR UBAY, SH.,</h3>
+							<span>Pengacara</span>
 						</div>
 					</div>
 					<div class="col-md-6 col-sm-6 col-xs-12 attorney-right skill-section">
-						<div class="skill-progress-box">
-							<h3 class="block-title">Civil Law<span data-skill_percent="82" id="skill_type1_count-13">82</span></h3>
-							<div class="progress">
-								<div class="progress-bar progress-bar-danger" role="progressbar" id="skill_bar1_count-13">
-								</div>
-							</div>
-						</div>
-						<div class="skill-progress-box">
-							<h3 class="block-title">Criminal law<span data-skill_percent="70" id="skill_type1_count-14">70</span></h3>
-							<div class="progress">
-								<div class="progress-bar progress-bar-danger" role="progressbar" id="skill_bar1_count-14">
-								</div>
-							</div>
-						</div>
-						<div class="skill-progress-box">
-							<h3 class="block-title">Industrial Law<span data-skill_percent="90" id="skill_type1_count-15">90</span></h3>
-							<div class="progress">
-								<div class="progress-bar progress-bar-danger" role="progressbar" id="skill_bar1_count-15">
-								</div>
-							</div>
-						</div>
-						<div class="skill-progress-box">
-							<h3 class="block-title">Goverment Issues<span data-skill_percent="50" id="skill_type1_count-16">50</span></h3>
-							<div class="progress">
-								<div class="progress-bar progress-bar-danger" role="progressbar" id="skill_bar1_count-16">
-								</div>
-							</div>
+						<div class="col-md-12 aboutone-left">
+							<p>Hutomo Nur Ubay, SH., atau biasa dipanggil Ubay merupakan Lulusan Fakultas Hukum Universitas Negeri Jenderal Soedirman Purwokerto. Saat ini beliau bergabung di Kisworo & Partner Law Firm, dengan semangat yang tinggi dan energik beliau sangat serius terjun ke dunia praktisi hukum dan memiliki kompetensi atau keahlian dalam hal pengurusan Legalitas serta Perizinan termasuk dan tidak terbatas untuk melakukan proses atau prosedur Pendirian CV, PT dan badan hukum lainnya, mengurus izin – izin usaha, nomor induk berusaha di sistem OSS (Online Single Submission), izin bangunan dan domisili, izin OJK, dan pendaftaran merek, hak cipta, rahasia dagang serta paten. Beliau juga cakap menangani permasalahan sengketa di peradilan agama seperti permasalahan hukum keluarga dan waris.</p>
 						</div>
 					</div>
 				</div>
-				<div class="attorney-block">
-					<div class="col-md-6 col-sm-6 col-xs-12 attorney-left">
-						<div class="col-md-6 col-sm-6 col-xs-6 attorney-team-photo no-padding">
-							<img src="images/attorney5.jpg" alt="team"/>
-						</div>
-						<div class="col-md-6 col-sm-6 col-xs-6 attorney-team-details">
-							<h3>Clen Marcus LLB.,</h3>
-							<span>Civil Law</span>
-							<p>The European languages are members of the same family their separate.</p>
-							<ul>
-								<li><a href="#" title="Facebook"><i class="fa fa-facebook"></i></a></li>	
-								<li><a href="#" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#" title="Google+"><i class="fa fa-google-plus"></i></a></li>
-								<li><a href="#" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-							</ul>
-							<a href="attorney-details.html" title="Contact Now">Contact Now</a>
-						</div>
-					</div>
-					<div class="col-md-6 col-sm-6 col-xs-12 attorney-right skill-section">
-						<div class="skill-progress-box">
-							<h3 class="block-title">Civil Law<span data-skill_percent="90" id="skill_type1_count-17">90</span></h3>
-							<div class="progress">
-								<div class="progress-bar progress-bar-danger" role="progressbar" id="skill_bar1_count-17">
-								</div>
-							</div>
-						</div>
-						<div class="skill-progress-box">
-							<h3 class="block-title">Criminal law<span data-skill_percent="65" id="skill_type1_count-18">65</span></h3>
-							<div class="progress">
-								<div class="progress-bar progress-bar-danger" role="progressbar" id="skill_bar1_count-18">
-								</div>
-							</div>
-						</div>
-						<div class="skill-progress-box">
-							<h3 class="block-title">Industrial Law<span data-skill_percent="82" id="skill_type1_count-19">82</span></h3>
-							<div class="progress">
-								<div class="progress-bar progress-bar-danger" role="progressbar" id="skill_bar1_count-19">
-								</div>
-							</div>
-						</div>
-						<div class="skill-progress-box">
-							<h3 class="block-title">Goverment Issues<span data-skill_percent="80" id="skill_type1_count-20">80</span></h3>
-							<div class="progress">
-								<div class="progress-bar progress-bar-danger" role="progressbar" id="skill_bar1_count-20">
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="attorney-block">
-					<div class="col-md-6 col-sm-6 col-xs-12 attorney-left">
-						<div class="col-md-6 col-sm-6 col-xs-6 attorney-team-photo no-padding">
-							<img src="images/attorney6.jpg" alt="team"/>
-						</div>
-						<div class="col-md-6 col-sm-6 col-xs-6 attorney-team-details">
-							<h3>Andrew Smith LLB.,</h3>
-							<span>General Law</span>
-							<p>The European languages are members of the same family their separate.</p>
-							<ul>
-								<li><a href="#" title="Facebook"><i class="fa fa-facebook"></i></a></li>	
-								<li><a href="#" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#" title="Google+"><i class="fa fa-google-plus"></i></a></li>
-								<li><a href="#" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-							</ul>
-							<a href="attorney-details.html" title="Contact Now">Contact Now</a>
-						</div>
-					</div>
-					<div class="col-md-6 col-sm-6 col-xs-12 attorney-right skill-section">
-						<div class="skill-progress-box">
-							<h3 class="block-title">Civil Law<span data-skill_percent="62" id="skill_type1_count-21">62</span></h3>
-							<div class="progress">
-								<div class="progress-bar progress-bar-danger" role="progressbar" id="skill_bar1_count-21">
-								</div>
-							</div>
-						</div>
-						<div class="skill-progress-box">
-							<h3 class="block-title">Criminal law<span data-skill_percent="80" id="skill_type1_count-22">80</span></h3>
-							<div class="progress">
-								<div class="progress-bar progress-bar-danger" role="progressbar" id="skill_bar1_count-22">
-								</div>
-							</div>
-						</div>
-						<div class="skill-progress-box">
-							<h3 class="block-title">Industrial Law<span data-skill_percent="90" id="skill_type1_count-23">90</span></h3>
-							<div class="progress">
-								<div class="progress-bar progress-bar-danger" role="progressbar" id="skill_bar1_count-23">
-								</div>
-							</div>
-						</div>
-						<div class="skill-progress-box">
-							<h3 class="block-title">Goverment Issues<span data-skill_percent="76" id="skill_type1_count-24">76</span></h3>
-							<div class="progress">
-								<div class="progress-bar progress-bar-danger" role="progressbar" id="skill_bar1_count-24">
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
+				
 			</div>
 			<!-- Partner Section -->
 @endsection
