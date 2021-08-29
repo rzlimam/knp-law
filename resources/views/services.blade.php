@@ -6,8 +6,7 @@
     <!-- Container -->
     <div class="container">
         <div class="col-md-5 no-padding">
-            <h3>Our Services</h3>
-            <p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question.</p>
+            <h3>Jasa Kami</h3>
         </div>
         <div class="col-md-3 breadcrumb-shape pull-right no-padding">			
             <ol class="breadcrumb">

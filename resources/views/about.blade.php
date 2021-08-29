@@ -6,8 +6,7 @@
     <!-- Container -->
     <div class="container">
         <div class="col-md-5 no-padding">
-            <h3>About Us</h3>
-            <p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question.</p>
+            <h3>Tentang Kami</h3>
         </div>
         <div class="col-md-3 breadcrumb-shape pull-right no-padding">			
             <ol class="breadcrumb">
@@ -24,8 +23,8 @@
     <!-- Container -->
     <div class="container">			
         <div class="section-header">
-            <h5>Know Who we are</h5>
-            <h3>A genuine people of attorney Lawyers working for the society</h3>
+            <h5>Tentang Kami</h5>
+            <h3>Efectiveness and Efficiency in solving problem</h3>
         </div>
         <div class="row">
             <div class="col-md-10 col-sm-6 aboutone-left">
