@@ -52,10 +52,16 @@ Route::get('/contact-us', function () {
     ]);
 });
 
+Route::get('/test/{post:slug}', function () {
+    return view('test', [
+        "title" => "Contact Us"
+    ]);
+});
+
 Route::post('contact-form', [MailController::class, 'mail']);
 
 Route::get('/blog', [PostController::class, 'index']);
-Route::get('/blog-post/{post:slug}', [PostController::class, 'show']);
+Route::get('/post/{post:slug}', [PostController::class, 'show']);
 
 Route::get('/categories', function() {
     return view('categories', [

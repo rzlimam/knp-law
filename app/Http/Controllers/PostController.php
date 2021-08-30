@@ -23,7 +23,7 @@ class PostController extends Controller
         }
 
         return view('blog', [
-            "title" => "All Posts" . $title,
+            "title" => "Blog" . $title,
             'active' => "blog",
             "categories" => Category::withCount('posts')->get(),
             "posts" => Post::latest()->filter(request(['search', 'category', 'author']))->paginate(4)->withQueryString()
@@ -32,9 +32,11 @@ class PostController extends Controller
 
     public function show(Post $post)
     {
-        return view('blog-post', [
-            "title" => "Single Post",
-            'active' => "posts",
+        return view('post', [
+            "title" => "Blog",
+            "active" => "blog-post",
+            "categories" => Category::withCount('posts')->get(),
+            "posts" => Post::latest()->get(),
             "post" => $post
         ]);
     }

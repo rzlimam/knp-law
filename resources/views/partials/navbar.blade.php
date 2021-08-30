@@ -8,21 +8,21 @@
                     <div class="col-md-3 col-sm-6 text-left col-xs-6">
                         <div class="location">
                             <h3>
-                                <img src="images/icon/location-ic.png" alt="Location"/>
+                                <img src="/images/icon/location-ic.png" alt="Location"/>
                                 Our Location
                             </h3>
                             <p>Jl. Inspeksi Kalimalang No. 36B, Setiadarma, Tambun Selatan, Kabupaten Bekasi, Jawa Barat – 17510</p>
                         </div>							
                     </div>
                     <div class="col-md-6 col-sm-4 logo-block mobile-hide">
-                        <a href="index.html" class="image-logo" title="Logo"><img src="images/knp-logo.jpeg" alt="Logo" style="width:150px;"/></a>
+                        <a href="index.html" class="image-logo" title="Logo"><img src="/images/knp-logo.jpeg" alt="Logo" style="width:150px;"/></a>
                         <h4>Kisworo and Partners</h4>
                         <span>Law Frim Group</span>
                     </div>
                     <div class="col-md-3 col-sm-6 text-right col-xs-6">							
                         <div class="phone">
                             <h3>
-                                <img src="images/icon/consultation-ic.png" alt="consultation"/>
+                                <img src="/images/icon/consultation-ic.png" alt="consultation"/>
                                 <span>Consultation</span>
                             </h3>
                             <p>Call Us - 0812 4564 7890</p>

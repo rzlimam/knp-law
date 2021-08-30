@@ -5,21 +5,21 @@
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <aside class="widget widget-about">						
                     <h3 class="widget-title">Law firm address</h3>
-                    <img src="images/icon/section-border.png" alt="section-border"/>
+                    <img src="/images/icon/section-border.png" alt="section-border"/>
                     <p>Jl. Inspeksi Kalimalang No. 36B, SetiadarmaTambun Selatan, Kabupaten Bekasi, Jawa Barat – 17510</p>
                 </aside>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <aside class="widget widget-about">
                     <h3 class="widget-title">Free consultation</h3>
-                    <img src="images/icon/section-border.png" alt="section-border"/>
+                    <img src="/images/icon/section-border.png" alt="section-border"/>
                     <p>Mobile: 0821-5850-0065</p>
                 </aside>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <aside class="widget widget-about">
                     <h3 class="widget-title">Mailing details</h3>
-                    <img src="images/icon/section-border.png" alt="section-border"/>
+                    <img src="/images/icon/section-border.png" alt="section-border"/>
                     <p>Info@Masterlawgroup.com</p>
                     <p>Support@Masterlawgroup.com</p>
                 </aside>

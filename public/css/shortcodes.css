@@ -1072,6 +1072,13 @@
 .blog-pagination .pagination li {
 	margin-right: 8px;
 	float: left;
+	font-size: 15px;
+}
+
+.blog-pagination .pagination li.active {
+	
+	background-color: #bb9a66;
+	color: #fff;;
 }
 
 .blog-pagination .pagination a {
