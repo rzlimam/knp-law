@@ -15,7 +15,7 @@ class MailController extends Controller
     }
     public function mail(Request $request)
     {
-        $mail = new EMail();
+        $mail = new Email();
         $mail->contact_name = $request->contact_name;
         $mail->contact_email = $request->contact_email;
         $mail->contact_phone = $request->contact_phone;
