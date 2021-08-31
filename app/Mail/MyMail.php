@@ -34,7 +34,7 @@ class MyMail extends Mailable
         return $this
                 ->from($address = '2015470051@ftumj.ac.id', $name = 'K&P Law Firm')
                 ->subject($this->details['contact_subject'])
-                ->view('emails\MyMail');
+                ->view('emails.MyMail');
         
     }
 }

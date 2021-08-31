@@ -27,37 +27,36 @@ use App\Models\User;
 
 Route::get('/', function () {
     return view('home', [
-        "title" => "Home"
+        "title" => "Home",
+        "active" => "home"
     ]);
 });
 
 Route::get('/about', function () {
     return view('about', [
-        "title" => "About Us"
+        "title" => "About Us",
+        "active" => "about-us"
     ]);
 });
 
 Route::get('/services', function () {
     return view('services', [
-        "title" => "Services"
+        "title" => "Services",
+        "active" => "services"
     ]);
 });
 
 Route::get('/our-team', function () {
     return view('team', [
-        "title" => "Our Team"
+        "title" => "Our Team",
+        "active" => "our-team"
     ]);
 });
 
 Route::get('/contact-us', function () {
     return view('contact', [
-        "title" => "Contact Us"
-    ]);
-});
-
-Route::get('/test/{post:slug}', function () {
-    return view('test', [
-        "title" => "Contact Us"
+        "title" => "Contact Us",
+        "active" => "contact-us"
     ]);
 });
 

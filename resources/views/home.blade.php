@@ -240,10 +240,10 @@
         <div class="call-out-content">
             <div class="col-md-10 col-sm-9 col-xs-12 no-padding">
                 <h3>Need some legal assistance? <span>Let’s have a chat!</span></h3>
-                <p>Blanditiis praesentium voluptatum deleniti atque  soluta nobis est eligendi optio cumque nihil.</p>
+                <p>Feel free to contact us</p>
             </div>
             <div class="col-md-2 col-sm-3 col-xs-12 contsult-now">
-                <a href="#" title="Consult now!">consult now!</a>
+                <a href="https://api.whatsapp.com/send?phone=6282110215679&text=Halo,%20saya%20butuh%20bantuan%20hukum." title="Consult now!">consult now!</a>
             </div>
         </div><!-- Call Out Content /- -->
     </div><!-- Container /- -->

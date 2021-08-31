@@ -25,7 +25,7 @@
         <div class="col-md-4 col-sm-4">
             <div class="contact-content">
                 <img src="images/icon/contact-ic-3.png" alt="contact-ic-3">
-                <h3>Write some words</h3>
+                <h3>Email</h3>
                 <p>Info@Masterlawgroup.com</p>
                 <p>Support@Masterlawgroup.com</p>
                 <p><br></p>

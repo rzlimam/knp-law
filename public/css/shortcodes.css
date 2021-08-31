@@ -1001,10 +1001,11 @@
 /* - Type Post */
 .type-post {
 	display: inline-block;
-	margin-bottom: 60px;
+	margin-bottom: 30px;
 }
 .gridinner {
 	background-color: #f8f8f0;
+	width: 750px;
 }
 .type-post:last-of-type {
 	margin-bottom: 115px;
@@ -1133,7 +1134,7 @@
 	border: none;
 }
 .widget-area .input-group .form-control {
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	letter-spacing: 1px;
 }
 .widget-area .form-control::-webkit-input-placeholder {

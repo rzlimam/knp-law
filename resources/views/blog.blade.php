@@ -33,17 +33,15 @@
                     @foreach ($posts as $post)
                     <article class="type-post blog-onecolumn format-image no-padding">
                         <div class="gridinner container-fluid no-padding">
-                            <div class="col-md-5 col-sm-12 col-xs-12 no-padding">
-                                <div class="entry-cover">
-                                    <a href="blog-post.html"><img src="images/blog-1-column1.jpg" alt="blog-1-column1"/></a>
-                                </div>
-                            </div>
-                            <div class="col-md-7 col-sm-12 col-xs-12 blog-content no-padding">
+                            <div class="col-md-10 col-sm-12 col-xs-12 blog-content no-padding">
                                 <div class="post-date">
                                     <p>{{ $post->created_at->format('M') }}<span>{{ $post->created_at->format('d') }}</span></p>
                                 </div>
                                 <div class="entry-title">
                                     <h3><a href="/post/{{ $post->slug }}" title="{{ $post->title }}">{{ $post->title }}</a></h3>
+                                </div>
+                                <div class="entry-content">
+                                    <p>Category : <a href="/blog?category={{ $post->category->slug }}">{{ $post->category->name }}</a></p>
                                 </div>
                                 <div class="entry-content">
                                     <p>{{ $post->excerpt }}</p>
@@ -64,12 +62,14 @@
             <!-- Widget Area -->
             <div class="widget-area col-md-4 col-sm-4 col-xs-12">
                 <aside class="widget widget-search">
-                    <div class="input-group">
-                        <input type="text" class="form-control" placeholder="Search...">
-                        <span class="input-group-btn">
-                            <button class="btn btn-default" type="button"><i class="fa fa-search"></i></button>
-                        </span>
-                    </div>
+                    <form action="/blog">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Search..." name="search" value="{{ request('search') }}">
+                            <span class="input-group-btn">
+                                <button class="btn btn-default" type="button"><i class="fa fa-search"></i></button>
+                            </span>
+                        </div>
+                    </form>
                 </aside>
                 <aside class="widget widget-catagories">
                     <div class="widget-title">
@@ -77,7 +77,7 @@
                     </div>
                     <ul>
                         @foreach ($categories as $cat)
-                        <li><span>{{ $cat->posts_count }}</span><a href="#" title="{{ $cat->name }}">{{ $cat->name }}</a></li>
+                        <li><span>{{ $cat->posts_count }}</span><a href="/blog?category={{ $cat->slug }}" title="{{ $cat->name }}">{{ $cat->name }}</a></li>
                         @endforeach
                     </ul>
                 </aside>
@@ -85,7 +85,7 @@
                     <div class="widget-title">
                         <h3>Recent Posts</h3>
                     </div>
-                    @foreach ($posts->take(3) as $post)
+                    @foreach ($recent_post as $post)
                     <div class="recent-content">
                         <a href="blog-post.html"><img src="images/recentpost1.jpg" alt="recentpost1"></a>
                         <h3><a href="blog-post.html">{{ $post->title }}</a></h3>

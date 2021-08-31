@@ -9,7 +9,7 @@
                         <div class="location">
                             <h3>
                                 <img src="/images/icon/location-ic.png" alt="Location"/>
-                                Our Location
+                                Kantor Kami
                             </h3>
                             <p>Jl. Inspeksi Kalimalang No. 36B, Setiadarma, Tambun Selatan, Kabupaten Bekasi, Jawa Barat – 17510</p>
                         </div>							
@@ -23,9 +23,9 @@
                         <div class="phone">
                             <h3>
                                 <img src="/images/icon/consultation-ic.png" alt="consultation"/>
-                                <span>Consultation</span>
+                                <span>Konsultasi</span>
                             </h3>
-                            <p>Call Us - 0812 4564 7890</p>
+                            <p>Hubungi - 0812 4564 7890</p>
                         </div>
                     </div>
                 </div>
@@ -53,12 +53,12 @@
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li class="{{ ($title === 'Home') ? 'active' : '' }}"><a href="/">Home</a></li>
-                        <li class="{{ ($title === 'About Us') ? 'active' : '' }}"><a href="/about">About Us</a></li>
-                        <li class="{{ ($title === 'Services') ? 'active' : '' }}"><a href="/services">Services</a></li>
-                        <li class="{{ ($title === 'Our Team') ? 'active' : '' }}"><a href="/our-team">Our Team</a></li>
-                        <li class="{{ ($title === 'Blog') ? 'active' : '' }}"><a href="/blog">Blog</a></li>
-                        <li class="{{ ($title === 'Contact Us') ? 'active' : '' }}"><a href="/contact-us">Contact</a></li>
+                        <li class="{{ ($active === 'home') ? 'active' : '' }}"><a href="/">Beranda</a></li>
+                        <li class="{{ ($active === 'about-us') ? 'active' : '' }}"><a href="/about">Tentang</a></li>
+                        <li class="{{ ($active === 'services') ? 'active' : '' }}"><a href="/services">Jasa Kami</a></li>
+                        <li class="{{ ($active === 'our-team') ? 'active' : '' }}"><a href="/our-team">Partners</a></li>
+                        <li class="{{ ($active === 'blog') ? 'active' : '' }}"><a href="/blog">Blog</a></li>
+                        <li class="{{ ($active === 'contact-us') ? 'active' : '' }}"><a href="/contact-us">Kontak</a></li>
                     </ul>						
                 </div>
             </div>

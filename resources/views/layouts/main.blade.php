@@ -10,10 +10,10 @@
         <meta name="description" content="">
         <meta name="author" content="">
     
-        <title>Master Law</title>
+        <title>Kisworo & Partners</title>
     
         <!-- Standard Favicon -->
-        <link rel="icon" type="image/x-icon" href="/images//favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="/images//knp-logo.png" />
         
         <!-- For iPhone 4 Retina display: -->
         <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images//apple-touch-icon-114x114-precomposed.png">
