@@ -26,8 +26,7 @@
             <div class="contact-content">
                 <img src="images/icon/contact-ic-3.png" alt="contact-ic-3">
                 <h3>Email</h3>
-                <p>Info@Masterlawgroup.com</p>
-                <p>Support@Masterlawgroup.com</p>
+                <p>kisworoandpartners@gmail.com</p>
                 <p><br></p>
                 <p><br></p>
             </div>

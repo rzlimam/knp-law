@@ -20,8 +20,7 @@
                 <aside class="widget widget-about">
                     <h3 class="widget-title">Kontak Email</h3>
                     <img src="/images/icon/section-border.png" alt="section-border"/>
-                    <p>Info@Masterlawgroup.com</p>
-                    <p>Support@Masterlawgroup.com</p>
+                    <p>kisworoandpartners@gmail.com</p>
                 </aside>
             </div>
         </div>

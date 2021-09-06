@@ -171,7 +171,7 @@
             </div>
             <div class="col-md-4 col-sm-4 col-xs-6 service-block">
                 <img src="images/icon/service-ic-2.png" alt="service-icon"/>
-                <h3>Konsultan Hukum Perusahaan dan Hubungan Internasional</h3>
+                <h3>Konsultan Hukum Perusahaan dan Hubungan Industri</h3>
                 <p>Certified Industrial Relation Practitie / CIRP, dengan sertifikasi Nomor : 1233/PPT/VI/2021.</p>
             </div>
             <div class="col-md-4 col-sm-4 col-xs-6 service-block">

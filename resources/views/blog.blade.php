@@ -87,9 +87,9 @@
                     </div>
                     @foreach ($recent_post as $post)
                     <div class="recent-content">
-                        <a href="blog-post.html"><img src="images/recentpost1.jpg" alt="recentpost1"></a>
-                        <h3><a href="blog-post.html">{{ $post->title }}</a></h3>
-                        <span><a href="#">{{ $post->created_at->format('d M Y') }}</a></span>
+                        <a href="/post/{{ $post->slug }}"><img src="images/recentpost1.jpg" alt="recentpost1"></a>
+                        <h3><a href="/post/{{ $post->slug }}">{{ $post->title }}</a></h3>
+                        <span>{{ $post->created_at->format('d M Y') }}</span>
                     </div>
                     @endforeach
                 </aside>
